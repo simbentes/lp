@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="518bd72d-7264-4e43-b9aa-6cf5474550f2" name="LP" url="http://localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="9235dc28-37f7-4475-8b92-b4225687f5c4" name="lab4" url="http://labmm.clients.ua.pt">
+        <fileTransfer rootFolder="/deca_20L4_03" host="labmm.clients.ua.pt" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
