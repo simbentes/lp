@@ -1,3 +1,2 @@
 # LP
-
-oaslda
+Mini-Projeto LabMM4
